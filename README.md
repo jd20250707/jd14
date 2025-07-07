@@ -12,4 +12,4 @@
 
 除了清晰的分类，很多站点还提供在线播放和磁力下载两种方式，确保用户能够在不同设备上流畅观看。为了提高观看体验，许多站点会使用海外服务器或CDN加速，减少加载时间，确保视频播放流畅。此外，为了避免无法访问的情况，很多站点会提供备用域名或镜像站点。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd14 ）</span>
